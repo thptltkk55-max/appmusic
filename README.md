@@ -91,14 +91,4 @@ lib/
     └── duration_formatter.dart
 ```
 
-## Hạn chế hiện tại
 
-- Media notification ưu tiên Android; iOS chưa được cấu hình/tối ưu đầy đủ.
-- App không đính kèm nhạc mẫu; người dùng tự thêm nhạc vào thiết bị hoặc chọn file audio thủ công.
-- Bài hát chọn bằng file picker chỉ giữ trong phiên chạy hiện tại, playlist lưu id bài hát nhưng không tự khôi phục file picker sau khi mở lại app.
-
-## Hướng phát triển
-
-- Lưu và khôi phục danh sách file đã chọn thủ công.
-- Bổ sung sort/filter theo album, artist.
-- Cải thiện artwork cache và màn hình chi tiết playlist.
