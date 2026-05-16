@@ -1,0 +1,12 @@
+{
+    "java.jdt.ls.java.home": "C:\\Users\\pdhhi\\.jdks\\jdk-17.0.19+10",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "C:\\Users\\pdhhi\\.jdks\\jdk-17.0.19+10",
+            "default": true
+        }
+    ],
+    "java.import.gradle.java.home": "C:\\Users\\pdhhi\\.jdks\\jdk-17.0.19+10",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
